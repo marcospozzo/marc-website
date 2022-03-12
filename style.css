@@ -4,8 +4,8 @@ html {
 
 body {
   overflow: hidden;
-  background: #4984d0 url("./images/marc-background.jpg") no-repeat center
-    center fixed;
+  background: #4984d0 url("./images/background-10.jpg") no-repeat center center
+    fixed;
   background-size: cover;
   position: fixed;
   padding: 0px;
